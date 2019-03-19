@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gson test</string>
+    <string name="value">null</string>
+    <string name="general">null</string>
+</resources>
